@@ -6,7 +6,7 @@ An end-to-end Business Intelligence project analyzing career demographics, salar
 ---
 
 ## 📸 Dashboard Preview
-
+![Dashboard Preview](dashboard_preview.png)
 ---
 
 ## 🛠️ Tech Stack & Skills
